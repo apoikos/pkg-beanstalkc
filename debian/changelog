@@ -1,0 +1,11 @@
+beanstalkc (0.3.0-1) unstable; urgency=low
+
+  * New upstream version 
+
+ -- Apollon Oikonomopoulos <apoikos@gmail.com>  Tue, 12 Mar 2013 16:03:46 +0200
+
+beanstalkc (0.2.0-1) unstable; urgency=low
+
+  * Initial release (Closes: #674539)
+
+ -- Apollon Oikonomopoulos <apoikos@gmail.com>  Tue, 14 Aug 2012 11:58:27 +0300
